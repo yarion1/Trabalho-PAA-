@@ -1,0 +1,32 @@
+Insertion Sort:
+Transformação das Listas
+
+
+I) Decrescente
+
+Cem - 0.0019941329956054688 segundos
+Mil - 0.06287503242492676 segundos
+Dez Mil - 5.114378213882446 segundos
+Vinte Mil - 25.292799949645996 segundos
+Cinquenta Mil - 175.22093749046326 segundos
+Cem Mil - 677.8541202545166 segundos
+
+II) Desordenado
+
+Cem - 0.0009975433349609375 segundos
+Mil - 0.03393697738647461 segundos
+Dez Mil - 2.658618211746216 segundos
+Vinte Mil - 21.237634658813477 segundos
+Cinquenta Mil - 116.64036822319031 segundos
+Cem Mil - Tempo Muito Alto Para Ser Processado
+Quinhentos Mil - Tempo Muito Alto Para Ser Processado
+Um Milhão - Tempo Muito Alto Para Ser Processado
+
+III) Crescente
+
+Cem - 0.0 segundos
+Mil - 0.0 segundos
+Dez Mil - 0.005828380584716797 segundos
+Vinte Mil - 0.0038466453552246094 segundos
+Cinquenta Mil - 0.008110523223876953 segundos
+Cem Mil - 0.018948793411254883 segundos
